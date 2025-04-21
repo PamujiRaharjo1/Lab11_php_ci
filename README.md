@@ -2,10 +2,6 @@
 # 312310720
 # TI 23 A.4
 
-| Nama                    | NIM        | Kelas   | Matkul            |
-|-------------------------|------------|---------|-------------------|
-| Muhammad Rizqy | 312310415  | TI.23.A4| Pemrograman Web 2 |
-
 
 1. Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian Apache
 klik Config -> PHP.ini
